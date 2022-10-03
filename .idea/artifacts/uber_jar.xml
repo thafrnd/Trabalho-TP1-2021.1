@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="uber:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/uber_jar</output-path>
+    <root id="archive" name="uber.jar">
+      <element id="module-output" name="uber" />
+    </root>
+  </artifact>
+</component>
